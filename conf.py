@@ -25,7 +25,7 @@ source_parsers = {
 
 # -- Project information -----------------------------------------------------
 
-project = 'Minimalist CPython'
+project = 'Minimalist Notes'
 copyright = '2018, Carol Willing'
 author = 'Carol Willing'
 
@@ -106,4 +106,4 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'MinimalistCPythondoc'
+htmlhelp_basename = 'MinimalistNotesdoc'
