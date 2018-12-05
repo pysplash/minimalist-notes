@@ -1,5 +1,6 @@
 # brew
 
+
 | command | purpose |
 |---------|---------|
 | brew update | updates brew itself |
